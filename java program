@@ -1,0 +1,9 @@
+#simple java program
+  #example 1:
+class Example
+  {
+    public static void main(String args[])
+    {
+      system.out.println("HELLO WORLD!")
+    }
+  }
